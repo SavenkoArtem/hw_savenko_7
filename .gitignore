@@ -1,0 +1,10 @@
+.vscode
+HARDSOFT/bin
+HARDSOFT/obj
+task47/bin
+task47/obj
+task50/bin
+task50/obj
+task52/bin
+task52/obj
+*.csproj
